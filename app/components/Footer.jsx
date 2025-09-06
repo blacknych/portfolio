@@ -61,7 +61,7 @@ const Footer = ({ isDarkMode }) => {
             <a
               target="_blank"
               rel="noreferrer"
-              href="https://dribbble.com/yourprofile"
+              href="https://dribbble.com/nicksnme"
               className="flex items-center gap-2 text-gray-700 dark:text-gray-300 hover:underline"
             >
               <Image src="/dribble.png" alt="Dribbble" width={20} height={20} />
