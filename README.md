@@ -17,9 +17,4 @@ It showcases my projects, skills, and a contact form to get in touch.
 
 ---
 
-## ⚙️ Run Locally
 
-Clone the repo:
-```bash
-git clone https://github.com/yourusername/portfolio.git
-cd portfolio
